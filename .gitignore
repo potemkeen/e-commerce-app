@@ -1,0 +1,14 @@
+# API keys and secrets
+api/.env
+
+# Dependency directory
+api/node_modules
+
+# Editors
+.idea
+
+# Ignore built ts files
+api/dist/**/*
+
+# ignore yarn.lock
+api/yarn.lock
